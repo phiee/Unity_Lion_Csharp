@@ -1,7 +1,7 @@
 ﻿using UnityEngine;    // 引用 Unity提供的API(函式庫:Unity功能與屬性) . 2020年4月8日學習
 
 // 類別 class 定義一個物件
-// 語法：class 類別名稱
+// 語法： 修飾詞 class 類別名稱
 // ：Monobehaviour 可以將此腳本掛在Unity 物件上
 public class Class1 : MonoBehaviour
 {
