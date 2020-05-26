@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "C:/yenyen/05_Practice_UnityCSharp_OperatorMethod/Assets/\u7DF4\u7FD2\u5834\u666F.unity"
+- path: C:/yenyen/20200508/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
